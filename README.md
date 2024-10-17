@@ -6,10 +6,10 @@ Passionate about using __Data Analysis to increase Educational Equity.__
 - My research interests include **Social Power & Hierarchy, Inclusion, Accessibility, & Deaf Culture**
 
   
-- I aim to apply my computational skills to combat prejudice based on aspects of identity—such as race, ethnicity, gender, sexuality, neurodivergence, and disability status—specifically in higher education settings.
+- I aim to apply my computational skills to combat prejudice based on aspects of identity—such as race, ethnicity, gender, sexuality, neurodivergence, and disability status—specifically in higher education settings
 
   
-- My current research investigates identity formation of Black undergradate students in STEM fields.
+- My current research investigates identity formation of Black undergradate students in STEM fields
 
 
 You can reach me at <hclifton@ucsd.edu>
