@@ -3,7 +3,7 @@
   
 Passionate about using __Data Analysis to increase Educational Equity.__
 
-- My research interests include **Social Power & Hierarchy, Sexuality (LGBTQ2+, Women’s Issues), Discrimination/Prejudice, Diversity, & Deaf Culture**
+- My research interests include **Social Power & Hierarchy, Inclusion, Sexuality (LGBTQ2+, Women’s Issues), Accessibility, & Deaf Culture**
 
   
 - I aim to apply my computational skills to combat prejudice based on aspects of identity—such as race, ethnicity, gender, sexuality, neurodivergence, and disability status—specifically in higher education settings.
